@@ -10,3 +10,4 @@ QuadPlane First Flight
     Flight Modes <quadplane-flight-modes>
     Flying a QuadPlane <quadplane-flying>
     VTOL Mode Tuning <quadplane-tuning-landingpage>
+    VTOL Airframe Specific Guides<quadplane-vtol-specific>
